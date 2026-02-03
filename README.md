@@ -22,7 +22,7 @@ Un sistema completo de consola en **Java** para administrar inventario y ventas 
 * **Tech:** Java 8, POO, Persistencia de Datos, Manejo de Colas.
 * **Funcionalidad:** Gestión de autos/motos/camionetas y simulación de taller mecánico.
 
-#### 🗄️ [VendingNEA] (https://github.com/LautaroHofer/VendingNEA)
+#### 🗄️ [VendingNEA](https://github.com/LautaroHofer/VendingNEA)
 Diseño, normalización e implementación de una base de datos relacional robusta en **SQL Server**.
 * **Tech:** T-SQL, SQL Server Management Studio (SSMS), Diseño DER.
 * **Destacado:** Implementación de reglas de negocio mediante **Stored Procedures** y **Triggers**.
