@@ -30,11 +30,22 @@ Diseño, normalización e implementación de una base de datos relacional robust
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Mis Estadísticas
 
-[![Estadísticas de Lautaro](https://github-readme-stats.vercel.app/api?username=LautaroHofer&show_icons=true&theme=dracula&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
-[![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs?username=LautaroHofer&layout=compact&theme=dracula&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=LautaroHofer&theme=dracula&locale=es&mode=weekly" alt="GitHub Streak" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=LautaroHofer&theme=dracula&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trofeos" />
+  </a>
+
+</div>
+<br><br>
 
 ---
 
