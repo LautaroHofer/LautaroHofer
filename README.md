@@ -30,19 +30,20 @@ Diseño, normalización e implementación de una base de datos relacional robust
 
 ---
 
-### 📊 Mis Estadísticas
+### 🛠️ Stack Tecnológico & Herramientas
 
 <div align="center">
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=LautaroHofer&theme=dracula&locale=es&mode=weekly" alt="GitHub Streak" />
-  </a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <br>
 
-  <br><br>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LautaroHofer&theme=dracula&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trofeos" />
-  </a>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 
 </div>
 <br><br>
