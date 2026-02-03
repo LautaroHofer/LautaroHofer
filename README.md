@@ -28,7 +28,7 @@ Actualmente estoy buscando oportunidades como **Desarrollador Junior / Trainee**
 
 ### 🔭 Proyectos Destacados
 
-#### 🚗 [Sistema de Gestión de Concesionaria](https://github.com/LautaroHofer/ConcesionarioMultimarca)
+#### 🚗 [ConcesionarioMultimarca](https://github.com/LautaroHofer/ConcesionarioMultimarca)
 Un sistema completo de consola en **Java** para administrar inventario y ventas de vehículos.
 * **Tech:** Java 8, POO, Persistencia de Datos, Manejo de Colas.
 * **Funcionalidad:** Gestión de autos/motos/camionetas y simulación de taller mecánico.
