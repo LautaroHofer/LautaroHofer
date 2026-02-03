@@ -32,15 +32,9 @@ Diseño, normalización e implementación de una base de datos relacional robust
 
 ### 📊 Estadísticas de GitHub
 
-<div align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LautaroHofer&count_private=true&show_icons=true&theme=dracula&locale=es" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroHofer&layout=compact&theme=dracula&locale=es" />
-</a>
-</div>
-<br><br><br><br><br><br><br><br>
+[![Estadísticas de Lautaro](https://github-readme-stats.vercel.app/api?username=LautaroHofer&show_icons=true&theme=dracula&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs?username=LautaroHofer&layout=compact&theme=dracula&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
